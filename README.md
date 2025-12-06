@@ -1,4 +1,4 @@
-# ubuntu_custom_flavors
+# Ubuntu custom flavors
 
 This repo aims to give more capibilitys of ubuntu but having our own custom flavors
 
