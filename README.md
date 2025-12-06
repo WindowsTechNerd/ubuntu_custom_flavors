@@ -6,6 +6,6 @@ Some weird, some people want
 
 I am giving away the iso's to the public since I won't really have any use of them.
 
-It would also be amazing if you could seed sometimes till I get the iso uploaded on archive.org, can't find a good time, too slow.
+You can also get the iso from archive.org at https://archive.org/details/ubuntu_custom_iso, I recommend using a downloader like FDM (Free Dowmload Manager)
 
 Note that all iso's are made with Cubic.
