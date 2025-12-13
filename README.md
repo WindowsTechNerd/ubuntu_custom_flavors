@@ -8,7 +8,7 @@ I am giving away the iso's to the public since I won't really have any use of th
 
 You can also get the iso from archive.org at https://archive.org/details/ubuntu_custom_iso, I recommend using a downloader like FDM (Free Dowmload Manager)
 
-Also please use archive.org since I don't have a web seed yet and sometimes my surface pro and my host is not seeding, this line shall be removed once I have a web seed.
+Also please use archive.org since I don't have a web seed yet.
 
 There is no fixed routtine of when i seed, but my phone seeds almost 24/7.
 
